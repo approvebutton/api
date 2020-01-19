@@ -1,6 +1,11 @@
 # api
 Backend side of orgini app
 
+https://github.com/approvebutton/api
+
+https://approvebutton.github.io/api/
+
+
 ## install apicra in Pycharm folder
 
     cd  %USERPROFILE%\PycharmProjects\
