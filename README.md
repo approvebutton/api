@@ -1,6 +1,12 @@
 # api
 Backend side of orgini app
 
+https://api.approvebutton.com
+
+# docs
+
+https://docs.approvebutton.com
+
 https://github.com/approvebutton/api
 
 https://approvebutton.github.io/api/
